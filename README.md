@@ -25,14 +25,14 @@ A modern Android Guide App built using **kotlin and XML** that helps users explo
 
 ## 📸 Screenshots
 
-*Add your app screenshots here*
+### 🏠 Welcome Screen
+![Welcome](screenshots/welcome.png)
 
-```
-screenshots/
- ├── welcome.png
- ├── categories.png
- └── webview.png
-```
+### 📂 Categories Screen
+![Categories](screenshots/categories.png)
+
+### 🌐 WebView Screen
+![WebView](screenshots/webview.png)
 
 ---
 
