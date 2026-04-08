@@ -1,6 +1,6 @@
 # 📱 Girjendra Guide App
 
-A modern Android Guide App built using **Java and XML** that helps users explore learning resources like **Machine Learning, Android Development, Programming, and more** in a simple and clean interface.
+A modern Android Guide App built using **kotlin and XML** that helps users explore learning resources like **Machine Learning, Android Development, Programming, and more** in a simple and clean interface.
 
 ---
 
@@ -17,7 +17,7 @@ A modern Android Guide App built using **Java and XML** that helps users explore
 
 ## 🛠️ Tech Stack
 
-* ☕ Java
+* ☕ kotlin
 * 🎨 XML (ConstraintLayout)
 * 🧰 Android Studio
 
