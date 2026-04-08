@@ -41,7 +41,7 @@ A modern Android Guide App built using **kotlin and XML** that helps users explo
 * Clone the repository:
 
 ```
-git clone https://github.com/your-username/GirjendraGuideApp.git
+git clone https://github.com/Girjendra/GirjendraGuideApp
 ```
 
 * Open in Android Studio
