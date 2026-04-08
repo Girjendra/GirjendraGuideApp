@@ -20,7 +20,7 @@
         android:textSize="30sp"
         android:textColor="@color/red"
         android:background="@color/light_blue"
-        android:text="Wellcome to girjendra's guide app" />
+        android:text="Welcome to girjendra's guide app" />
 
     <Button
         android:id="@+id/btn"

@@ -18,7 +18,7 @@ A modern Android Guide App built using **kotlin and XML** that helps users explo
 ## 🛠️ Tech Stack
 
 * ☕ kotlin
-* 🎨 XML (ConstraintLayout)
+* 🎨 XML (LinerLayout, TextView, Button, CardView)
 * 🧰 Android Studio
 
 ---
